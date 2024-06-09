@@ -2,5 +2,5 @@
 
 # Output Picture :
 
-![alt text](?raw=true)
+![alt text](https://github.com/Bayu-Prasetyo0301/Bookshelf-Application/blob/main/pictures/pict1.png?raw=true)
 
